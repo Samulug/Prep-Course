@@ -1,0 +1,7 @@
+Variables: Las varibales son la forma de almacenar datos para luego usarlos
+Strings: Los Strings es todo lo que sea texto no que no influya en la programacion como por ej. "Hola"
+Funciones: Las funciones son procesos particulares que los hace por separado y desvuelven una respuesta
+Argumentos : Los Argumentos son las instrucciones que se le da a la funcion dentro de la misma para que cumpla su cometido
+Return: El Return es lo que da la Devolucion de la funcion, es lo que corta la funcion y la devuelve lo nesesario
+Declaraciones if: Las Declaraciones if son preguntas que se hacen para comprobar o verificar una funcion y si esta da la respuesta indicada el programa toma un camino indicado
+Valores Booleanos: Los valores booleanos son los que verifican e indican si nuestra funcion esta bien TRUE o si no FALSE

@@ -1,0 +1,4 @@
+    El bucle FOR es una exprecion en la que primero establesemos una variable y despues una condicion la cual es la que el bucle se encargara de cumplir y por ultimo un operador ++ para que cada vez que el bucle se corra de nuevo se le sume 1 al valor de la variable.
+    &&: Este es un operador logico el cual es "Y".El mismo evalua las expreciones y devolvera true si AMBAS se cumplen, pero si una se cumple y la otra no o ambas no se cumplen devolvera FALSE
+    ||: Este es un operador logico el cual es "O".El mismo evalua las expreciones y devolvera true si UNA o AMBAS expreciones se cumples y devolvera FALSE si ninguna se cumple
+    !: Este es un operador logico el cual es "NO".Este devolvera el valor opuesto al que se le pase.
